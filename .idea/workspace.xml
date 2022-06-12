@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67255c20-b33a-4b86-984e-5cf0128ff892" name="Changes" comment="sqlite DB added">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/poc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poc-db/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/poc-db/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poc-db/src/main/resources/mylite.db" beforeDir="false" afterPath="$PROJECT_DIR$/poc-db/src/main/resources/mylite.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +122,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sqlite DB added" />
