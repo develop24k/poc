@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67255c20-b33a-4b86-984e-5cf0128ff892" name="Changes" comment="sqlite DB added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poc-db/src/main/resources/mylite.db" beforeDir="false" afterPath="$PROJECT_DIR$/poc-db/src/main/resources/mylite.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poc-db/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/poc-db/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655033141616</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sqlite DB added">
+      <created>1655035510540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655035510540</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
